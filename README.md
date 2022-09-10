@@ -1,1 +1,1 @@
-# AI-Assistant
+An AI-based virtual desktop assistant.
